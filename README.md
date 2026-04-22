@@ -749,7 +749,7 @@ What did you learn about:
 - integration?
 
 **Response:**  
-`[Write here]`
+`[We learned that trial and error is the best way to go about it. Trying and failing is better than not starting at all.]`
 
 ## 19.3 Design Reflection
 What did you learn about:
@@ -761,13 +761,13 @@ What did you learn about:
 - iteration?
 
 **Response:**  
-`[Write here]`
+`[People like to compete, they often return to games where they can keep a 'score' with their friends. Games that have less to think abt and simple mechanisms (like using force) are also more preferred. Aesthetics do matter.]`
 
 ## 19.4 If You Had One More Week
 What would you improve next?
 
 **Response:**  
-`[Write here]`
+`[We would make an app with a leaderboard for the game.]`
 
 ---
 
