@@ -497,12 +497,12 @@ Examples:
 
 | Budget Item | Estimated Cost |
 |---|---:|
-| Electronics | `[Cost]` |
+| Electronics | `[350]` |
 | Mechanical parts | `[Cost]` |
 | Fabrication materials | `[Cost]` |
 | Purchased extras | `[Cost]` |
 | Contingency | `[Cost]` |
-| **Total** | `[Cost]` |
+| **Total** | `[350]` |
 
 ## 12.5 Budget Reflection
 If your cost is too high, what can be simplified, removed, substituted, or shared?
@@ -761,13 +761,13 @@ What did you learn about:
 - iteration?
 
 **Response:**  
-`[Write here]`
+`[People like to use force. An open ended game is more fun, letting people decide how they want to play instead of deciding for them. Aesthetics matter, players get more excited to play something that looks put together. A simple but fun game is preferred over a complex game that's difficult to understand.]`
 
 ## 19.4 If You Had One More Week
 What would you improve next?
 
 **Response:**  
-`[Write here]`
+`[We would add an app that has a leaderboard.]`
 
 ---
 
